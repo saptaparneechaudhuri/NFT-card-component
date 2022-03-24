@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://leafy-manatee-d53f4c.netlify.app/)
+- Live Site URL: [https://leafy-manatee-d53f4c.netlify.app/]
 
 ## My process
 
